@@ -17,7 +17,7 @@
 ### 🧬 GWAS & Multi-omics
 | Reading date | Year | Author        | title                                                 |
 | ------------ | ---- | ------------- | ----------------------------------------------------- |
-| 2025-08-29   | 2025 | Ryuya Edahiro | [Common SNPs explain a large proportion of the heritability for human height](2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md) |
+| 2025-08-29   | 2025 | Jian Yang | [Common SNPs explain a large proportion of the heritability](2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md) |
 
 
 | Reading date | Year | Author | title |
