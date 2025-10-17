@@ -20,9 +20,10 @@
 ### 📏 1. LD Score 回归 回顾
 
 - 经典 LD Score 回归假设对于每个 SNP $j$，其检验统计量（如 $\chi_j^2$）的期望值可以线性表示为：
-  $$
-  \mathbb{E}[\chi_j^2] = 1 + \frac{N \, h^2}{M} \, \mathrm{LDScore}(j) + \text{confounding}
-  $$
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle\mathbb{E}[\chi_j^2] = 1 + \frac{N \, h^2}{M} \, \mathrm{LDScore}(j) + \text{confounding}">
+  </p>
+
   其中 $\mathrm{LDScore}(j)$ 是 SNP $j$ 与周围 SNP 的 LD 相关性累加值。  
 - 这个模型帮助区分检验统计量膨胀的来源（多基因信号 vs 混杂偏倚）——见 Bulik-Sullivan 等人的 LD Score regression 方法。  
 
@@ -37,15 +38,17 @@
 
 #### (2) 模型假设与回归表达式
 
-- 假设每个 SNP 的效应方差可分解为多个注释类别的加权和：  
-  $$
-  \mathrm{Var}(\beta_j) = \sum_k \tau_k A_{j,k}
-  $$
+- 假设每个 SNP 的效应方差可分解为多个注释类别的加权和：
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle\mathrm{Var}(\beta_j) = \sum_k \tau_k A_{j,k}">
+  </p>  
+
   其中 $\tau_k$ 是注释类别 $k$ 的效应方差参数。  
 - 则期望 $\chi^2$ 值可写成对注释加权的线性组合：
-  $$
-  \mathbb{E}[\chi_j^2] = 1 + \sum_k \tau_k \, \mathrm{LDScore}_{j,k}
-  $$
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle\mathbb{E}[\chi_j^2] = 1 + \sum_k \tau_k \, \mathrm{LDScore}_{j,k}">
+  </p>  
+
   这里的 $\mathrm{LDScore}_{j,k}$ 是 **类别特异性 LD Score**，即考虑注释类别 $k$ 的 LD Score（SNP 与类别 $k$ 注释 SNP 的 LD 累加度量）。  
 - 用加权回归对 $\chi_j^2$ 对各 $\mathrm{LDScore}_{j,k}$ 回归，即可估计各 $\tau_k$，由此推断出每个注释类别对总遗传率的贡献。
 

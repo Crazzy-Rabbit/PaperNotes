@@ -21,9 +21,10 @@
 ### 📏 1. 单性状 LD Score 回归回顾
 
 - 单一性状的 LD Score 回归模型是假设：
-  $$
-  \mathbb{E}[\chi_j^2] = 1 + \frac{N \, h^2}{M} \times \mathrm{LDScore}(j) + \text{confounding}
-  $$
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle\mathbb{E}[\chi_j^2] = 1 + \frac{N \, h^2}{M} \times \mathrm{LDScore}(j) + \text{confounding}">
+  </p>  
+
   其中 $\mathrm{LDScore}(j)$ 是 SNP j 的 LD Score 值（累加与其周围 SNP 的 $r^2$）。
 
 - 这种方法可以区分检验统计膨胀 (inflation) 来自真实遗传信号 vs 偏倚 (如人群结构) 的部分。
@@ -35,9 +36,10 @@
 - 定义每个 SNP j 的 z 统计量：$z_{jA}$ 对应性状 $A$，$z_{jB}$ 对应性状 $B$。
 
 - 在模型假设下，有如下期望关系（简化形式）：
-  $$
-  \mathbb{E}[z_{jA} z_{jB}] = \frac{\sqrt{N_A N_B}}{M} \, r_g \, h_{A} h_{B} \, \mathrm{LDScore}(j) + \text{bias term}
-  $$
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle\mathbb{E}[z_{jA} z_{jB}] = \frac{\sqrt{N_A N_B}}{M} \, r_g \, h_{A} h_{B} \, \mathrm{LDScore}(j) + \text{bias term}">
+  </p>  
+
   其中：
   - $N_A, N_B$：两个 GWAS 的样本量  
   - $h_A, h_B$：各性状的 SNP 遗传率  
@@ -45,9 +47,10 @@
   - “bias term” 用以捕捉样本重叠 (sample overlap) 或协变量共混的影响
 
 - 因此，可对 $z_{jA} z_{jB}$ 与 $\mathrm{LDScore}(j)$ 做回归：
-  $$
-  z_{jA} z_{jB} = \alpha + \beta \, \mathrm{LDScore}(j) + \varepsilon_j
-  $$
+  <p align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\displaystyle z_{jA} z_{jB} = \alpha + \beta \, \mathrm{LDScore}(j) + \varepsilon_j">
+  </p>  
+
   其中 $\beta$ 与 $r_g$ 有线性对应关系，$\alpha$ 捕捉偏倚 / 样本重叠贡献。这样就能估计 $r_g$ 而控制偏倚因素。 
 
 - 作者还证明该方法在样本重叠下仍不偏倚（bias-robust），因为样本重叠会对 intercept（$\alpha$）造成上移，但不会扭曲斜率估计。
