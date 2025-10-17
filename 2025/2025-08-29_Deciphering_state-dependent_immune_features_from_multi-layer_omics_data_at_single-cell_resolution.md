@@ -1,4 +1,4 @@
-### 📄 New approaches to population stratification in genome-wide association studies
+### 📄 Deciphering state-dependent immune features from multi-layer omics data at single-cell resolution
 **原文链接**: https://www.nature.com/articles/s41588-025-02266-3 (DOI: 10.1038/s41588-025-02266-3) \
 **作者**: Ryuya Edahiro, Go Sato, Tatsuhiko Naito, Yuya Shirai, et al.  \
 **期刊**: *Nat Genet*, 2025 \
