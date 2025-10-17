@@ -99,7 +99,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2015</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Brendan&nbsp;K&nbsp;Bulik&#8209;Sullivan</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2024/2024-07-13_LDSC.md"><nobr>LDSC&nbsp;--&nbsp;Distinguish&nbsp;confounding&nbsp;from&nbsp;polygenicity</nobr></a>
+        <nobr><a href="2024/2024-07-13_LDSC.md">LDSC&nbsp;&#8209;&#8209;&nbsp;Distinguish&nbsp;confounding&nbsp;from&nbsp;polygenicity</a></nobr>
       </td>
     </tr>
     <tr style="background:#f6f8fa;">
@@ -107,7 +107,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2015</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Hilary&nbsp;K&nbsp;Finucane</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2024/2024-07-18_LDSC_partitation_heritability.md"><nobr>LDSC&nbsp;--&nbsp;partitioning&nbsp;heritability&nbsp;by&nbsp;function&nbsp;annotation</nobr></a>
+        <nobr><a href="2024/2024-07-18_LDSC_partitation_heritability.md">LDSC&nbsp;&#8209;&#8209;&nbsp;partitioning&nbsp;heritability&nbsp;by&nbsp;function&nbsp;annotation</a></nobr>
       </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2015</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Brendan&nbsp;K&nbsp;Bulik&#8209;Sullivan</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2024/2024-07-22_LDSC_genetic_correlation.md"><nobr>LDSC&nbsp;--&nbsp;complex&nbsp;traits&nbsp;genetic&nbsp;correlations</nobr></a>
+        <nobr><a href="2024/2024-07-22_LDSC_genetic_correlation.md">LDSC&nbsp;&#8209;&#8209;&nbsp;complex&nbsp;traits&nbsp;genetic&nbsp;correlations</a></nobr>
       </td>
     </tr>
     <tr style="background:#f6f8fa;">
@@ -123,7 +123,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2018</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Hilary&nbsp;K&nbsp;Finucane</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2024/2024-07-30_LDSC-SEG.md"><nobr>LDSC-SEG&nbsp;--&nbsp;Heritability&nbsp;enrichment</nobr></a>
+        <nobr><a href="2024/2024-07-30_LDSC-SEG.md">LDSC&#8209;SEG&nbsp;&#8209;&#8209;&nbsp;Heritability&nbsp;enrichment</a></nobr>
       </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2016</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Zhihong&nbsp;Zhu</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2024/2024-08-07_SMR.md"><nobr>SMR&nbsp;--&nbsp;Integrat&nbsp;GWAS&nbsp;with&nbsp;eQTL</nobr></a>
+        <nobr><a href="2024/2024-08-07_SMR.md">SMR&nbsp;&#8209;&#8209;&nbsp;Integrat&nbsp;GWAS&nbsp;with&nbsp;eQTL</a></nobr>
       </td>
     </tr>
     <tr style="background:#f6f8fa;">
@@ -139,7 +139,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2024</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Zhili&nbsp;Zheng</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2025/2025-03-14_SBayesRC.md"><nobr>SBayesRC&nbsp;--&nbsp;Leveraging&nbsp;functional&nbsp;annotations&nbsp;to&nbsp;improve&nbsp;polygenic&nbsp;prediction</nobr></a>
+        <nobr><a href="2025/2025-03-14_SBayesRC.md">SBayesRC&nbsp;&#8209;&#8209;&nbsp;Leveraging&nbsp;functional&nbsp;annotations&nbsp;to&nbsp;improve&nbsp;polygenic&nbsp;prediction</a></nobr>
       </td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Liyang&nbsp;Song</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
-        <a href="2025/2025-05-23_gsMap.md"><nobr>gsMap&nbsp;--&nbsp;integrate&nbsp;GWAS&nbsp;with&nbsp;spatial&nbsp;omics</nobr></a>
+        <nobr><a href="2025/2025-05-23_gsMap.md">gsMap&nbsp;&#8209;&#8209;&nbsp;integrate&nbsp;GWAS&nbsp;with&nbsp;spatial&nbsp;omics</a></nobr>
       </td>
     </tr>
   </tbody>
