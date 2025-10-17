@@ -30,5 +30,6 @@
 
 | Reading date | Year | Author | title |
 | ------------ | ---- | ------ | ----- |
+| 2025-03-14 | 2024 | Zhili Zheng | [SBayesRC -- Leveraging functional annotations to improve polygenic prediction](2025/2025-03-14_SBayesRC.md) |
 | 2025-05-23 | 2025 | Liyang Song | [gsMap -- integrate GWAS with spatial omics](2025/2025-05-23_gsMap.md) |
 ---
