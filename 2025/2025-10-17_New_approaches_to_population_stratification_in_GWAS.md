@@ -1,8 +1,8 @@
 ### 📄 New approaches to population stratification in genome-wide association studies
-**原文链接**: [DOI/URL](https://doi.org/10.1038/nrg2813) \
+**原文链接**: https://www.nature.com/articles/nrg2813 （DOI: 10.1038/nrg2813） :contentReference[oaicite:1]{index=1} \
 **作者**: Alkes L. Price et al.  \
 **期刊**: *Nat Rev Genet*, 2010 \
-**关键词**: population stratification, GWAS, approaches
+**关键词**: GWAS, population stratification, mixed models, ancestry correction, cryptic relatedness  
 
 ---
 
@@ -40,8 +40,7 @@
 ---
 
 ## 📚 五、参考引用
-> Smith et al., *Nature Communications*, 2024. DOI: 10.1038/s41467-024-XXXX  
-> Li et al., *Science Advances*, 2023. DOI: 10.1126/sciadv.abXXXX  
+> Price, A. L., Zaitlen, N. A., Reich, D., & Patterson, N. (2010). *New approaches to population stratification in genome-wide association studies*. *Nature Reviews Genetics*, 11(7), 459-463. DOI: 10.1038/nrg2813  
 
 ---
 
