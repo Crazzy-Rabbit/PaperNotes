@@ -103,54 +103,54 @@ tr:nth-child(even) {
 <table>
   <thead>
     <tr>
-      <th>Reading date</th>
-      <th>Year</th>
-      <th>Author</th>
-      <th>Title</th>
+      <th style="white-space:nowrap;">Reading date</th>
+      <th style="white-space:nowrap;">Year</th>
+      <th style="white-space:nowrap;">Author</th>
+      <th style="white-space:nowrap;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-13</td>
-      <td>2015</td>
-      <td>Brendan K Bulik-Sullivan</td>
-      <td><a href="2024/2024-07-13_LDSC.md">LDSC -- Distinguish confounding from polygenicity</a></td>
+      <td style="white-space:nowrap;">2024-07-13</td>
+      <td style="white-space:nowrap;">2015</td>
+      <td style="white-space:nowrap;">Brendan K Bulik-Sullivan</td>
+      <td style="white-space:nowrap;"><a href="2024/2024-07-13_LDSC.md">LDSC -- Distinguish confounding from polygenicity</a></td>
     </tr>
     <tr>
-      <td>2024-07-18</td>
-      <td>2015</td>
-      <td>Hilary K Finucane</td>
-      <td><a href="2024/2024-07-18_LDSC_partitation_heritability.md">LDSC -- partitioning heritability by function annotation</a></td>
+      <td style="white-space:nowrap;">2024-07-18</td>
+      <td style="white-space:nowrap;">2015</td>
+      <td style="white-space:nowrap;">Hilary K Finucane</td>
+      <td style="white-space:nowrap;"><a href="2024/2024-07-18_LDSC_partitation_heritability.md">LDSC -- partitioning heritability by function annotation</a></td>
     </tr>
     <tr>
-      <td>2024-07-22</td>
-      <td>2015</td>
-      <td>Brendan K Bulik-Sullivan</td>
-      <td><a href="2024/2024-07-22_LDSC_genetic_correlation.md">LDSC -- complex traits genetic correlations</a></td>
+      <td style="white-space:nowrap;">2024-07-22</td>
+      <td style="white-space:nowrap;">2015</td>
+      <td style="white-space:nowrap;">Brendan K Bulik-Sullivan</td>
+      <td style="white-space:nowrap;"><a href="2024/2024-07-22_LDSC_genetic_correlation.md">LDSC -- complex traits genetic correlations</a></td>
     </tr>
     <tr>
-      <td>2024-07-30</td>
-      <td>2018</td>
-      <td>Hilary K Finucane</td>
-      <td><a href="2024/2024-07-30_LDSC-SEG.md">LDSC-SEG -- Heritability enrichment</a></td>
+      <td style="white-space:nowrap;">2024-07-30</td>
+      <td style="white-space:nowrap;">2018</td>
+      <td style="white-space:nowrap;">Hilary K Finucane</td>
+      <td style="white-space:nowrap;"><a href="2024/2024-07-30_LDSC-SEG.md">LDSC-SEG -- Heritability enrichment</a></td>
     </tr>
     <tr>
-      <td>2024-08-07</td>
-      <td>2016</td>
-      <td>Zhihong Zhu</td>
-      <td><a href="2024/2024-08-07_SMR.md">SMR -- Integrat GWAS with eQTL</a></td>
+      <td style="white-space:nowrap;">2024-08-07</td>
+      <td style="white-space:nowrap;">2016</td>
+      <td style="white-space:nowrap;">Zhihong Zhu</td>
+      <td style="white-space:nowrap;"><a href="2024/2024-08-07_SMR.md">SMR -- Integrat GWAS with eQTL</a></td>
     </tr>
     <tr>
-      <td>2025-03-14</td>
-      <td>2024</td>
-      <td>Zhili Zheng</td>
-      <td><a href="2025/2025-03-14_SBayesRC.md">SBayesRC -- Leveraging functional annotations to improve polygenic prediction</a></td>
+      <td style="white-space:nowrap;">2025-03-14</td>
+      <td style="white-space:nowrap;">2024</td>
+      <td style="white-space:nowrap;">Zhili Zheng</td>
+      <td style="white-space:nowrap;"><a href="2025/2025-03-14_SBayesRC.md">SBayesRC -- Leveraging functional annotations to improve polygenic prediction</a></td>
     </tr>
     <tr>
-      <td>2025-05-23</td>
-      <td>2025</td>
-      <td>Liyang Song</td>
-      <td><a href="2025/2025-05-23_gsMap.md">gsMap -- integrate GWAS with spatial omics</a></td>
+      <td style="white-space:nowrap;">2025-05-23</td>
+      <td style="white-space:nowrap;">2025</td>
+      <td style="white-space:nowrap;">Liyang Song</td>
+      <td style="white-space:nowrap;"><a href="2025/2025-05-23_gsMap.md">gsMap -- integrate GWAS with spatial omics</a></td>
     </tr>
   </tbody>
 </table>
