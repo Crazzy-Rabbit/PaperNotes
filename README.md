@@ -10,48 +10,48 @@
 
 ### 🧠 Review / Perspective
 
-<table>
+<table style="border-collapse:collapse;width:100%;">
   <thead>
     <tr>
-      <th style="white-space:nowrap;">Reading date</th>
-      <th style="white-space:nowrap;">Year</th>
-      <th style="white-space:nowrap;">Author</th>
-      <th style="white-space:nowrap;">Title</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Reading&nbsp;date</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Year</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Author</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="white-space:nowrap;">2025-10-17</td>
-      <td style="white-space:nowrap;">2010</td>
-      <td style="white-space:nowrap;">Alkes L. Price</td>
-      <td style="white-space:nowrap;">
-        <a href="2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md">
-          New approaches to population stratification in GWAS
-        </a>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025-10-17</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2010</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Alkes&nbsp;L.&nbsp;Price</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
+        <nobr><a href="2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md">
+          New&nbsp;approaches&nbsp;to&nbsp;population&nbsp;stratification&nbsp;in&nbsp;GWAS
+        </a></nobr>
       </td>
     </tr>
   </tbody>
 </table>
 
 ### 🧬 GWAS & Multi-omics
-<table>
+<table style="border-collapse:collapse;width:100%;">
   <thead>
     <tr>
-      <th style="white-space:nowrap;">Reading date</th>
-      <th style="white-space:nowrap;">Year</th>
-      <th style="white-space:nowrap;">Author</th>
-      <th style="white-space:nowrap;">Title</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Reading&nbsp;date</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Year</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Author</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="white-space:nowrap;">2025-08-29</td>
-      <td style="white-space:nowrap;">2025</td>
-      <td style="white-space:nowrap;">Jian Yang</td>
-      <td style="white-space:nowrap;">
-        <a href="2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md">
-          Common SNPs explain a large proportion of the heritability
-        </a>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025-08-29</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Jian&nbsp;Yang</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
+        <nobr><a href="2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md">
+          Common&nbsp;SNPs&nbsp;explain&nbsp;a&nbsp;large&nbsp;proportion&nbsp;of&nbsp;the&nbsp;heritability
+        </a></nobr>
       </td>
     </tr>
   </tbody>
@@ -59,24 +59,24 @@
 
 ### 🧬 Single-cell / Spatial Transcriptomics
 
-<table>
+<table style="border-collapse:collapse;width:100%;">
   <thead>
     <tr>
-      <th style="white-space:nowrap;">Reading date</th>
-      <th style="white-space:nowrap;">Year</th>
-      <th style="white-space:nowrap;">Author</th>
-      <th style="white-space:nowrap;">Title</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Reading&nbsp;date</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Year</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Author</th>
+      <th style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="white-space:nowrap;">2025-08-29</td>
-      <td style="white-space:nowrap;">2025</td>
-      <td style="white-space:nowrap;">Ryuya Edahiro</td>
-      <td style="white-space:nowrap;">
-        <a href="2025/2025-08-29_Deciphering_state-dependent_immune_features_from_multi-layer_omics_data_at_single-cell_resolution.md">
-          Single-cell multi-omics -- immune features Japan
-        </a>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025-08-29</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Ryuya&nbsp;Edahiro</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
+        <nobr><a href="2025/2025-08-29_Deciphering_state-dependent_immune_features_from_multi-layer_omics_data_at_single-cell_resolution.md">
+          Single&#8209;cell&nbsp;multi&#8209;omics&nbsp;&#8209;&#8209;&nbsp;immune&nbsp;features&nbsp;Japan
+        </a></nobr>
       </td>
     </tr>
   </tbody>
