@@ -64,6 +64,16 @@
         </a></nobr>
       </td>
     </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025-06-15</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Xi&nbsp;Cao</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
+        <nobr><a href="2025/2025-06-15_Tran-ancestry_GWAS_kidney_stone.md">
+          Trans-ancestry&nbsp;GWAS&nbsp;of&nbsp;kidney&nbsp;stone&nbsp;disease
+        </a></nobr>
+      </td>
+    </tr>
   </tbody>
 </table>
 
