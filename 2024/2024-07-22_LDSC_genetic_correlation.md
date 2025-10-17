@@ -1,8 +1,8 @@
 ### 📄  An atlas of genetic correlations across human diseases and traits
 
-**原文链接**: https://www.nature.com/articles/ng.3406 （DOI: 10.1038/ng.3406） 
-**作者**: Brendan Bulik-Sullivan, Hilary K. Finucane, Verneri Anttila, et al. 
-**期刊**: *Nat Genet*, 2015
+**原文链接**: https://www.nature.com/articles/ng.3406 （DOI: 10.1038/ng.3406） \
+**作者**: Brendan Bulik-Sullivan, Hilary K. Finucane, Verneri Anttila, et al. \
+**期刊**: *Nat Genet*, 2015 \
 **关键词**: cross-trait genetic correlation, LD Score regression, summary statistics, sample overlap correction, trait architecture
 
 ---

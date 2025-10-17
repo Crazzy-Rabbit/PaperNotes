@@ -1,8 +1,8 @@
 ### 📄  Partitioning heritability by functional annotation using genome-wide association summary statistics
 
-**原文链接**: https://www.nature.com/articles/ng.3404 （DOI: 10.1038/ng.3404） 
-**作者**: Hilary K. Finucane, Brendan Bulik-Sullivan, Alexander Gusev, et al. 
-**期刊**: *Nat Genet*, 2015
+**原文链接**: https://www.nature.com/articles/ng.3404 （DOI: 10.1038/ng.3404） \
+**作者**: Hilary K. Finucane, Brendan Bulik-Sullivan, Alexander Gusev, et al. \
+**期刊**: *Nat Genet*, 2015 \
 **关键词**: stratified LD score regression, heritability partitioning, functional annotation
 
 ---

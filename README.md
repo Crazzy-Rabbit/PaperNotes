@@ -30,7 +30,7 @@
 
 | Reading date | Year | Author | title |
 | ------------ | ---- | ------ | ----- |
-| 2024-07-13 | 2015 | Brendan K Bulik-Sullivan | [LDSC -- Distinguish confounding from polygenicity](2024/2024-07-13_LDSC.md2024-07-13_LDSC.md) |
+| 2024-07-13 | 2015 | Brendan K Bulik-Sullivan | [LDSC -- Distinguish confounding from polygenicity](2024/2024-07-13_LDSC.md) |
 | 2024-07-18 | 2015 | Hilary K Finucane | [LDSC -- partitioning heritability by function annotation](2024/2024-07-18_LDSC_partitation_heritability.md) |
 | 2024-07-22 | 2015 | Brendan K Bulik-Sullivan | [LDSC -- complex traits genetic correlations](2024/2024-07-22_LDSC_genetic_correlation.md) |
 | 2024-07-30 | 2018 | Hilary K Finucane | [LDSC-SEG -- Heritability enrichment](2024/2024-07-30_LDSC-SEG.md) |
