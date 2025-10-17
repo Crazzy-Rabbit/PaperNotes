@@ -1,4 +1,4 @@
-# 📄 [New approaches to population stratification in genome-wide association studies]
+### 📄 New approaches to population stratification in genome-wide association studies
 **原文链接**: [DOI/URL](https://doi.org/10.1038/nrg2813) \
 **作者**: Alkes L. Price et al.  \
 **期刊**: *Nat Rev Genet*, 2010 \
