@@ -8,9 +8,26 @@
 
 ## 🧩 目录导航
 
-| Year | Reading date | Author | title                      |
-| ---- | -------- | ---- | ----------------------------------------------- |
-| 2010 | 2025-10-17 | Alkes L. Price | [New_approaches_to_population_stratification_in_GWAS](2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md) |
+### 🧠 Review / Perspective
 
+| Reading date | Year | Author         | title                                                                                                                      |
+| ------------ | ---- | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2025-10-17   | 2010 | Alkes L. Price | [New approaches to population stratification in GWAS](2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md) |
+
+### 🧬 GWAS & Multi-omics
+
+| Reading date | Year | Author | title |
+| ------------ | ---- | ------ | ----- |
+
+### 🧬 Single-cell / Spatial Transcriptomics
+
+| Reading date | Year | Author        | title                                                 |
+| ------------ | ---- | ------------- | ----------------------------------------------------- |
+| 2025-08-29   | 2025 | Ryuya Edahiro | [Single-cell multi-omics --immune features Japan](2025/) |
+
+### 🧰 Software / Computational Methods
+
+| Reading date | Year | Author | title |
+| ------------ | ---- | ------ | ----- |
 
 ---
