@@ -10,37 +10,21 @@
 
 ### 🧠 Review / Perspective
 
-<style>
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-th, td {
-  border: 1px solid #ccc;
-  padding: 6px 8px;
-  text-align: left;
-  white-space: nowrap;
-}
-tr:nth-child(even) {
-  background-color: #f9f9f9;
-}
-</style>
-
 <table>
   <thead>
     <tr>
-      <th>Reading date</th>
-      <th>Year</th>
-      <th>Author</th>
-      <th>Title</th>
+      <th style="white-space:nowrap;">Reading date</th>
+      <th style="white-space:nowrap;">Year</th>
+      <th style="white-space:nowrap;">Author</th>
+      <th style="white-space:nowrap;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025-10-17</td>
-      <td>2010</td>
-      <td>Alkes L. Price</td>
-      <td>
+      <td style="white-space:nowrap;">2025-10-17</td>
+      <td style="white-space:nowrap;">2010</td>
+      <td style="white-space:nowrap;">Alkes L. Price</td>
+      <td style="white-space:nowrap;">
         <a href="2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md">
           New approaches to population stratification in GWAS
         </a>
@@ -53,18 +37,18 @@ tr:nth-child(even) {
 <table>
   <thead>
     <tr>
-      <th>Reading date</th>
-      <th>Year</th>
-      <th>Author</th>
-      <th>Title</th>
+      <th style="white-space:nowrap;">Reading date</th>
+      <th style="white-space:nowrap;">Year</th>
+      <th style="white-space:nowrap;">Author</th>
+      <th style="white-space:nowrap;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025-08-29</td>
-      <td>2025</td>
-      <td>Jian Yang</td>
-      <td>
+      <td style="white-space:nowrap;">2025-08-29</td>
+      <td style="white-space:nowrap;">2025</td>
+      <td style="white-space:nowrap;">Jian Yang</td>
+      <td style="white-space:nowrap;">
         <a href="2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md">
           Common SNPs explain a large proportion of the heritability
         </a>
@@ -78,18 +62,18 @@ tr:nth-child(even) {
 <table>
   <thead>
     <tr>
-      <th>Reading date</th>
-      <th>Year</th>
-      <th>Author</th>
-      <th>Title</th>
+      <th style="white-space:nowrap;">Reading date</th>
+      <th style="white-space:nowrap;">Year</th>
+      <th style="white-space:nowrap;">Author</th>
+      <th style="white-space:nowrap;">Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2025-08-29</td>
-      <td>2025</td>
-      <td>Ryuya Edahiro</td>
-      <td>
+      <td style="white-space:nowrap;">2025-08-29</td>
+      <td style="white-space:nowrap;">2025</td>
+      <td style="white-space:nowrap;">Ryuya Edahiro</td>
+      <td style="white-space:nowrap;">
         <a href="2025/2025-08-29_Deciphering_state-dependent_immune_features_from_multi-layer_omics_data_at_single-cell_resolution.md">
           Single-cell multi-omics -- immune features Japan
         </a>
