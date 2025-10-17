@@ -45,6 +45,16 @@
   </thead>
   <tbody>
     <tr>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2024-12-23</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Xikun&nbsp;Han</td>
+      <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">
+        <nobr><a href="2024/2024-12-23_POAG_multi_trait_meta.md">
+          Large-scale&nbsp;multitrait&nbsp;GWAS&nbsp;identify&nbsp;hundreds&nbsp;of&nbsp;of&nbsp;glaucoma&nbsp;risk&nbsp;loci
+        </a></nobr>
+      </td>
+    </tr>
+    <tr>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025-04-13</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">2025</td>
       <td style="border:1px solid #ccc;padding:6px 8px;white-space:nowrap;word-break:keep-all;">Jian&nbsp;Yang</td>
@@ -56,6 +66,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 ### 🧬 Single-cell / Spatial Transcriptomics
 
