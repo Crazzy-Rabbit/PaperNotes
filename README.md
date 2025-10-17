@@ -8,9 +8,9 @@
 
 ## 🧩 目录导航
 
-| Year | Author | title                      | file                                                                                                                       |
-| ---- | ---- |------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 2010 | Alkes L. Price | Population stratification in GWAS | [2025-10-17_population_stratification_in_GWAS](2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md) |
+| Year | Reading date | Author | title                      | file                                                                                                                       |
+| ---- | ---- | ---- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2010 | 2025-10-17 | Alkes L. Price | Population stratification in GWAS | [2025-10-17_population_stratification_in_GWAS](2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md) |
 
 
 ---
