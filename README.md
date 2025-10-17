@@ -15,6 +15,10 @@
 | 2025-10-17   | 2010 | Alkes L. Price | [New approaches to population stratification in GWAS](2025/2025-10-17_New_approaches_to_population_stratification_in_GWAS.md) |
 
 ### 🧬 GWAS & Multi-omics
+| Reading date | Year | Author        | title                                                 |
+| ------------ | ---- | ------------- | ----------------------------------------------------- |
+| 2025-08-29   | 2025 | Ryuya Edahiro | [Common SNPs explain a large proportion of the heritability for human height](2025/2025-04-13_Common_SNPs_explain_a_large_proportion_of_the_heritability.md) |
+
 
 | Reading date | Year | Author | title |
 | ------------ | ---- | ------ | ----- |
