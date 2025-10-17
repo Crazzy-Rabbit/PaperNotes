@@ -14,8 +14,3 @@
 
 
 ---
-
-## ✍️ 模板使用
-
-请复制 [`templates/paper_note_template.md`](templates/paper_note_template.md)，
-并将其中的字段替换为具体文献内容。
